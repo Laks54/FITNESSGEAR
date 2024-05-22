@@ -1,0 +1,62 @@
+body{
+    background-color:whitesmoke;
+    /* background-image: url(); */
+    background-size: cover;
+    position:relative;
+}
+
+.color{
+    text-align: right;
+    position: absolute;
+    top: 0;
+    margin-left: 1380px;
+    margin-top: 20px;
+}
+
+/* Footer styles */
+footer {
+    background-color:black; /* Dark background color */
+    color: #fff; /* Text color */
+    padding: 20px; /* Padding around content */
+  }
+  
+  .footer-links {
+    list-style-type: none; /* Remove bullet points from list */
+    padding: 0; /* Remove default padding */
+  }
+  
+  .footer-links li {
+    margin-bottom: 10px; /* Spacing between each footer link */
+  }
+  
+  .footer-links a {
+    color: #fff; /* Link color */
+    text-decoration: none; /* Remove underline from links */
+  }
+  
+  .footer-links a:hover {
+    text-decoration: underline; /* Underline links on hover */
+  }
+  
+  .footer-copy {
+    font-size: 14px; /* Font size for copyright text */
+  }
+footer
+{
+    margin-top: 100px;
+}
+  
+
+.container
+{
+  margin-top: 150px;
+}
+
+.welcome-heading {
+  font-size: 36px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
